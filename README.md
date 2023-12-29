@@ -11,6 +11,6 @@ Due to licencing issues, the library used for creating shapes is not included in
 
 # Development
 A small demo of me adjusting paramaters on the character model. 
-The model consists of a hierarchy spheres and cubes that were translated using the afine transformations taught in class.
+The model consists of a hierarchy of spheres and cubes that were translated using the afine transformations taught in class.
 
 ![Animated GIF](Movie%20Submission/happy.gif)
